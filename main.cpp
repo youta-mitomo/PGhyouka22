@@ -30,7 +30,7 @@ enum Scene
 
 int Scene = title;
 
-const char kWindowTitle[] = "GC1D_07_タカブ_コウキ_shooting_Gun";
+const char kWindowTitle[] = "GC1C_15_ミトモ_ヨウタ_TTL";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
