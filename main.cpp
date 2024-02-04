@@ -192,6 +192,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	}
 
 	delete bullet;
+	delete bullet;
 
 	// ライブラリの終了
 	Novice::Finalize();
